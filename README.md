@@ -1,6 +1,6 @@
 # Vite React Typescript Tailwind Template
 
-This repository serves as a preconfigured template for quickly scaffolding projects using Vite, React, TypeScript, and Tailwind CSS. It's tailored to streamline the setup process, allowing you to jump straight into developing your project with your preferred tools.
+This repository serves as a preconfigured template for quickly scaffolding web projects using my preferred tools: Vite, React, TypeScript, and Tailwind CSS. 
 
 ## Features
 
